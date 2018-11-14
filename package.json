@@ -1,0 +1,26 @@
+{
+  "name": "server-node-dappshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amineinfo/server-node-dappshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amineinfo/server-node-dappshop/issues"
+  },
+  "homepage": "https://github.com/amineinfo/server-node-dappshop#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
